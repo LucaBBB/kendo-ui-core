@@ -3891,7 +3891,7 @@ Configures the ContextMenus of the Grid.
 
 ### contextMenu.body `Array`
 
-Configures the items of the ContextMenu for the table body element. Those are some valid predifined tools: "separator", "create", "edit", "destroy", "select", "copySelection",."copySelectionNoHeaders", "reorderRow", "exportPDF", "exportExcel", "sortAsc", "sortDesc". 
+Configures the items of the ContextMenu for the table body element. Those are some valid predifined tools: "separator", "create", "edit", "destroy", "select", "copySelection", "copySelectionNoHeaders", "reorderRow", "exportPDF", "exportExcel", "sortAsc", "sortDesc". 
 
 You can also specify a custom item and accosiate it with a command.
 
@@ -4021,7 +4021,7 @@ Specifies the command of the item.
 
 ### contextMenu.head `Array`
 
-Configures the items of the ContextMenu for the table head element. Those are some valid predifined tools: "separator", "create", "edit", "destroy", "select", "copySelection",."copySelectionNoHeaders", "reorderRow", "exportPDF", "exportExcel", "sortAsc", "sortDesc". 
+Configures the items of the ContextMenu for the table head element. Those are some valid predifined tools: "separator", "create", "edit", "destroy", "select", "copySelection", "copySelectionNoHeaders", "reorderRow", "exportPDF", "exportExcel", "sortAsc", "sortDesc". 
 
 You can also specify a custom item and accosiate it with a command.
 
